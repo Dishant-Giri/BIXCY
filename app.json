@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "BIXCY",
+    "slug": "bixcy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.bixcy.app"
+    },
+    "android": {
+      "package": "com.bixcy.app",
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        }
+      }
+    }
+  }
+}
